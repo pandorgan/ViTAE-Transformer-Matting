@@ -1,7 +1,7 @@
 <h1 align="center">Rethinking Portrait Matting with Privacy Preserving</h1>
 
 <p align="center">
-<a href="Paper link: https://arxiv.org/abs/2203.16828"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
+<a href="https://arxiv.org/abs/2203.16828"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting/blob/master/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue"></a>
 <!-- <a href="https://paperswithcode.com/sota/image-matting-on-p3m-10k"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/privacy-preserving-portrait-matting/image-matting-on-p3m-10k"></a>
 </p> -->
