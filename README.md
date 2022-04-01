@@ -1,7 +1,7 @@
 <h1 align="center">Rethinking Portrait Matting with Privacy Preserving</h1>
 
 <p align="center">
-<a href=""><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
+<a href="Paper link: https://arxiv.org/abs/2203.16828"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
 <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting/blob/master/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue"></a>
 <!-- <a href="https://paperswithcode.com/sota/image-matting-on-p3m-10k"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/privacy-preserving-portrait-matting/image-matting-on-p3m-10k"></a>
 </p> -->
@@ -30,7 +30,7 @@
 > 
 > [2021-12-06]: Publish the [<strong>P3M-10k</strong>](#ppt-setting-and-p3m-10k-dataset) dataset.
 >
-> [2021-11-21]: Publish the conference paper ACM MM 2021 "[Privacy-preserving Portrait Matting](https://arxiv.org/abs/2104.14222)". The code and data are available at [github repo](https://github.com/JizhiziLi/P3M).
+> [2021-11-21]: Publish the conference paper ACM MM 2021 "[Privacy-preserving Portrait Matting](https://dl.acm.org/doi/10.1145/3474085.3475512)". The code and data are available at [github repo](https://github.com/JizhiziLi/P3M).
 >
 > Other applications of ViTAE Transformer include: [image classification](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Image-Classification) | [object detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Object-Detection) | [semantic segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Semantic-Segmentation) | [animal pose segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Animal-Pose-Estimation)
 
@@ -134,7 +134,8 @@ P3M-10k and the facemask are now <strong>published</strong>!! You can get access
 @article{rethink_p3m,
   title={Rethinking Portrait Matting with Pirvacy Preserving},
   author={Ma, Sihan and Li, Jizhizi and Zhang, Jing and Zhang, He and Tao, Dacheng},
-  journal={arXiv preprint arXiv:},
+  publisher = {arXiv},
+  doi={10.48550/ARXIV.2203.16828},
   year={2022}
 }
 ```
