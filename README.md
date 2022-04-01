@@ -6,7 +6,7 @@
 <!-- <a href="https://paperswithcode.com/sota/image-matting-on-p3m-10k"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/privacy-preserving-portrait-matting/image-matting-on-p3m-10k"></a>
 </p> -->
 
-<h4 align="center">This is the official repository of the paper <a href="">Rethinking Portrait Matting with Privacy Preserving</a>.</h4>
+<h4 align="center">This is the official repository of the paper <a href="https://arxiv.org/abs/2203.16828">Rethinking Portrait Matting with Privacy Preserving</a>.</h4>
 
 
 <h5 align="center"><em>Sihan Ma<sup>&#8727;</sup>, Jizhizi Li<sup>&#8727;</sup>, Jing Zhang, He Zhang, and Dacheng Tao</em></h5>
