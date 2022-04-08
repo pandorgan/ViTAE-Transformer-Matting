@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2203.16828"><img  src="https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg" ></a>
+<a href="https://colab.research.google.com/drive/1pD_XKx31Lgd7zwq46dRpz2jGdsH1ZIay?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 <a href="https://github.com/ViTAE-Transformer/ViTAE-Transformer-Matting/blob/master/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue"></a>
 <!-- <a href="https://paperswithcode.com/sota/image-matting-on-p3m-10k"><img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/privacy-preserving-portrait-matting/image-matting-on-p3m-10k"></a>
 </p> -->
