@@ -33,7 +33,7 @@
 >
 > [2021-11-21]: Publish the conference paper ACM MM 2021 "[Privacy-preserving Portrait Matting](https://dl.acm.org/doi/10.1145/3474085.3475512)". The code and data are available at [github repo](https://github.com/JizhiziLi/P3M).
 >
-> Other applications of ViTAE Transformer include: [image classification](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Image-Classification) | [object detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Object-Detection) | [semantic segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Semantic-Segmentation) | [animal pose segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Animal-Pose-Estimation)
+> Other applications of ViTAE Transformer include: [image classification](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Image-Classification) | [object detection](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Object-Detection) | [semantic segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Semantic-Segmentation) | [animal pose segmentation](https://github.com/ViTAE-Transformer/ViTAE-Transformer/tree/main/Animal-Pose-Estimation) | [remote sensing](https://github.com/ViTAE-Transformer/ViTAE-Transformer-Remote-Sensing)
 
 
 ## Introduction
