@@ -120,7 +120,7 @@ P3M-10k and the facemask are now <strong>published</strong>!! You can get access
 
 6. The results of alpha matte and transparent color image will be saved in folder `samples/result_alpha/.` and `samples/result_color/.`.
 
-<p align="justify">We show some sample images, the predicted alpha mattes, and their transparent results as below. We use the pretrained <strong>P3M-Net(ViTAE-S)</strong> model from section <a href="#p3m-net-and-variants">P3M-Net and Variants</a> with `Hybrid (1 & 1/2)` test strategy.</p>
+<p align="justify">We show some sample images, the predicted alpha mattes, and their transparent results as below. We use the pretrained <strong>P3M-Net(ViTAE-S)</strong> model from section <a href="#p3m-net-and-variants">P3M-Net and Variants</a> with `RESIZE` test strategy.</p>
 
 <img src="samples/original/p_015cd10e.jpg" width="33%"><img src="samples/result_alpha/p_015cd10e.png" width="33%"><img src="samples/result_color/p_015cd10e.png" width="33%">
 <img src="samples/original/p_819ea202.jpg" width="33%"><img src="samples/result_alpha/p_819ea202.png" width="33%"><img src="samples/result_color/p_819ea202.png" width="33%">

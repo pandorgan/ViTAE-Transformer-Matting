@@ -10,7 +10,7 @@
 arch='vitae'
 model_path='./models/P3M-Net_ViTAE-S_trained_on_P3M-10k.pth'
 dataset='SAMPLES'
-test_choice='HYBRID'
+test_choice='RESIZE'
 
 python core/infer.py \
 --arch $arch \
